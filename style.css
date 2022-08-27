@@ -88,3 +88,13 @@ h3 {
   text-align: center;
   font-size: 24px;
 }
+
+.gitLink {
+  display: inline;
+  margin: 0 0 0 130px;
+  font-size: smaller;
+}
+
+.name {
+  font-size: smaller;
+}
